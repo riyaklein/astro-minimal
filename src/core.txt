@@ -1,1 +1,2 @@
 An open source blog template build with Astro and Bulma 🚀
+# clarify the control flow
