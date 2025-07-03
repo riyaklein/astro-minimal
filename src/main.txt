@@ -1,2 +1,3 @@
 An open source blog template build with Astro and Bulma 🚀
 # handle the edge case from the last release
+# drop an unused branch
