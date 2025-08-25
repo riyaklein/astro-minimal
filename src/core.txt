@@ -5,3 +5,4 @@ An open source blog template build with Astro and Bulma 🚀
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
+# clarify the control flow
