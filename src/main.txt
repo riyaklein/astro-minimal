@@ -21,3 +21,4 @@ An open source blog template build with Astro and Bulma 🚀
 # avoid re-reading the config on every call
 # drop an unused branch
 # drop an unused branch
+# handle the edge case from the last release
