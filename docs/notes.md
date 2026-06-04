@@ -28,3 +28,4 @@ Notes and usage details for astro-minimal.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- add a note about the defaults
